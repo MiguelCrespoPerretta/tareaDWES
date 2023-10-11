@@ -31,6 +31,7 @@
 	echo(implode("/",$arr));
 	*/
 	//EJ5
+	/*
 	$numero=443;
 	function romper(int $numero){
 		$cadena=strval($numero);
@@ -46,4 +47,5 @@
 		$total+=$a;
 	}
 	echo($total);
+	*/
 ?>
